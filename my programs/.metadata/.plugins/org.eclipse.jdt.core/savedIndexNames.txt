@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\Hp\july2023\my programs\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2141063700.index

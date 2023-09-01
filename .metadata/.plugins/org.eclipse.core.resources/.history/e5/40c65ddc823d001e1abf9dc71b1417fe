@@ -1,0 +1,26 @@
+package shashi;
+
+public class Demo {
+	public static void main(String[] args)
+
+	{
+
+	int n=1;
+	while(n<=5)
+	{
+		int i=1;
+		do{
+			System.out.println("kodnest ");
+			i++;
+		}while(i<=5);
+		
+	}
+		System.out.println();
+		n++;
+	
+	System.out.println("Technologies");
+	}
+}
+
+
+
